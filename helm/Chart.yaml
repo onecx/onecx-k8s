@@ -3,8 +3,8 @@ name: onecx-k8s
 version: 0.0.0
 appversion: 0.0.0
 dependencies:
-- name: onecx-db-postgresql-operator
+- name: onecx-k8s-db-postgresql-operator
   version: "*-0"
   repository: oci://ghcr.io/onecx/charts
-  condition: "deployment.db-operator"  
-  alias: "db-operator"
+  condition: "deployment.db-postgresql-operator"  
+  alias: "db-postgresql-operator"
