@@ -1,2 +1,2 @@
 deployment:
-  db-operator: true
+  db-postgresql-operator: true
