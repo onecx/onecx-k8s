@@ -1,2 +1,6 @@
 deployment:
   db-postgresql-operator: true
+
+product:
+  info:
+    enabled: false
