@@ -1,4 +1,5 @@
 deployment:
+  crds: true
   db-postgresql-operator: true
 
 product:
