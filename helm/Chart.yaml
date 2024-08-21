@@ -7,6 +7,11 @@ dependencies:
   version: ^0
   repository: oci://ghcr.io/onecx/charts
   alias: product
+- name: onecx-k8s-crds
+  version: "*-0"
+  repository: oci://ghcr.io/onecx/charts
+  condition: "deployment.crds"  
+  alias: "crds"
 - name: onecx-k8s-db-postgresql-operator
   version: "*-0"
   repository: oci://ghcr.io/onecx/charts
