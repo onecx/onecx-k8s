@@ -7,6 +7,6 @@ dependencies:
   version: 0.0.0-rc.2
 - name: onecx-k8s-db-postgresql-operator
   repository: oci://ghcr.io/onecx/charts
-  version: 0.0.0-rc.39
-digest: sha256:5ad675c3cd39720b8197b83d711238a39d43e83d2a2c50564adfe4c31c264dc1
-generated: "2024-10-13T17:35:53.795725342Z"
+  version: 0.0.0-rc.40
+digest: sha256:32451c4d0a3e6f6c4b9f9b7331d7e4337f47841d99444fe50b0d53c6c3364a5e
+generated: "2024-10-16T09:29:19.447814241Z"
