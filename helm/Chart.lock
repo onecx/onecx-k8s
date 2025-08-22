@@ -4,9 +4,9 @@ dependencies:
   version: 0.3.0
 - name: onecx-k8s-crds
   repository: oci://ghcr.io/onecx/charts
-  version: 0.0.0-rc.4
+  version: 1.0.0-rc.1
 - name: onecx-k8s-db-postgresql-operator
   repository: oci://ghcr.io/onecx/charts
   version: 0.0.0-rc.78
-digest: sha256:88b9c469ecdfa6323cbf59e5fbaadec8dc89fcd3fe8e42130b854c6b1364d6be
-generated: "2025-08-22T08:47:37.315173887Z"
+digest: sha256:b2ef9d62ed669ae5f0810cb1f26a9d839afda524ec1b8aa14c5b9c938ea56487
+generated: "2025-08-22T09:41:23.555460545Z"
