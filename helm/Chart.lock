@@ -1,12 +1,12 @@
 dependencies:
 - name: helm-product
   repository: oci://ghcr.io/onecx/charts
-  version: 0.3.0
+  version: 0.4.0
 - name: onecx-k8s-crds
   repository: oci://ghcr.io/onecx/charts
   version: 1.2.0
 - name: onecx-k8s-db-postgresql-operator
   repository: oci://ghcr.io/onecx/charts
   version: 1.1.0-rc.5
-digest: sha256:8a48118cb7f1ac7dfbc0c41b83d2cb16282baa538cbc7a9ee06678b8e1a1d583
-generated: "2025-11-05T10:38:31.813358862Z"
+digest: sha256:5de7c71b34303d6b8595f9086b43beb30cb5595aec268a635bd91994af7f01a0
+generated: "2025-11-06T08:35:42.300427984Z"
